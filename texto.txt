@@ -1,0 +1,1 @@
+Fazer uma comparação do uso de flyweight e não uso em uma floresta na amazônia.
